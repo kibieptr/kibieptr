@@ -25,7 +25,7 @@
 most used social media</p>
 
 <p align="center">
-<a href="https://www.instagram.com/kibieptr_" target="_blank"><img src="https://img.shields.io/badge/-kibiept_-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/kibieptr_" target="_blank"><img src="https://img.shields.io/badge/-kibieptr_-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/c//@silynn" target="_blank"><img src="https://img.shields.io/badge/-Silynn-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 </p>
 </div>

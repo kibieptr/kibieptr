@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lynnxha</h1>
+<h1 align="center">Hi 👋, I'm Kibieptr</h1>
 <h3 align="center">I Newbie Developer</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lynnxha&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Lynnxha)

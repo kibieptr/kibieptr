@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kibieptr</h1>
 <h3 align="center">I Newbie Developer</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lynnxha&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Lynnxha)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kibieptr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Lynnxha)
 ![readmebox](https://svgshare.com/i/104e.svg)
 
 <div>
@@ -37,13 +37,13 @@ most used social media</p>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
 <p align="center">
-  <a href="https://github.com/lynnxha"><img src="https://github-readme-stats.vercel.app/api?username=lynnxha&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/kibieptr"><img src="https://github-readme-stats.vercel.app/api?username=kibieptr&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/lynnxha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lynnxha&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/kibieptr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kibieptr&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/lynnxha"><img src="https://github-profile-trophy.vercel.app/?username=lynnxha&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/kibieptr"><img src="https://github-profile-trophy.vercel.app/?username=kibieptr&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>

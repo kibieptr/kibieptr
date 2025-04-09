@@ -2,7 +2,6 @@
 <h3 align="center">I Newbie Developer</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kibieptr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Lynnxha)
-![readmebox](https://svgshare.com/i/104e.svg)
 
 <div>
   <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
